@@ -1,0 +1,31 @@
+{
+  "name": "nodehbs-express-boilerplate",
+  "version": "1.0.0",
+  "description": "A express-handlebars boilerplate for nodejs application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/I-Muhaimenul/nodehbs-express-boilerplate.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "handlebars",
+    "boilerplate"
+  ],
+  "author": "Muhaimenul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/I-Muhaimenul/nodehbs-express-boilerplate/issues"
+  },
+  "homepage": "https://github.com/I-Muhaimenul/nodehbs-express-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "nodemon": "^1.18.3"
+  }
+}
